@@ -29,3 +29,4 @@ def step_impl(context):
 def step_impl(context):
     product = ProductosScreen(context)
     product.assert_text(*product.lbl_productos, text="PRODUCTS")
+

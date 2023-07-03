@@ -16,7 +16,6 @@ def before_scenario(context, scenario):
     context.driver = webdriver.Remote('http://localhost:4723/wd/hub', desired_caps)
     context.driver.implicitly_wait(10)
 
-
 def context_variables(context):
     current_directory = dirname(abspath(__file__))
     data = dotenv_values(f'{current_directory}/.env')

@@ -32,3 +32,4 @@ def step_impl(context):
     filter_price.tap_element(*filter_price.btn_filter)
     filter_price.tap_element(*filter_price.btn_high_price)
     filter_price.assert_text(*filter_price.lbl_high_price_item, text=PRICE_PRODUCT_FILTER.get("HIGH_PRICE"))
+

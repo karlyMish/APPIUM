@@ -23,3 +23,4 @@ class CommonActions(object):
 
     def get_text_of_element(self, *locator):
         return self.driver.find_element(*locator).text
+

@@ -6,3 +6,4 @@ Feature: Agregar al carrito
     When añadir primer producto
     When validar en el carrito
     Then validar nombre y precio del producto
+

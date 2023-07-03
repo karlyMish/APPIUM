@@ -33,3 +33,4 @@ def step_impl(context):
     carrito_screen.tap_element(*carrito_screen.icon_cart)
     carrito_screen.assert_text(*carrito_screen.lbl_price_cart, text=SEE_PRODUCT.get("price"))
     carrito_screen.assert_text(*carrito_screen.lbl_product_name_cart, text=SEE_PRODUCT.get("product_name"))
+

@@ -10,3 +10,4 @@ class FilterScreen(CommonActions):
         self.btn_high_price = (By.ANDROID_UIAUTOMATOR, '.text("Price (high to low)")')
         self.lbl_low_price_item = (By.ANDROID_UIAUTOMATOR, '.text("$7.99")')
         self.lbl_high_price_item = (By.ANDROID_UIAUTOMATOR, '.text("$49.99")')
+

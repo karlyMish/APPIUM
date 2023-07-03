@@ -125,7 +125,6 @@ Para generar reporte desde cero con Allure, se deben seguir los siguientes pasos
   
   allure serve reports/ #para mostrar el reporte
 ```  
-Se agregan imagenes de ejecución:
+Se agregarn imagenes de ejecución
 
-
-!
+![features_finalizados.jpg](..%2F..%2F..%2FDesktop%2Ffeatures_finalizados.jpg)

@@ -18,7 +18,6 @@ def step_impl(context):
     product.tap_element(*product.detail_product)
 
 
-
 @Then('validar detalle del producto')
 def step_impl(context):
     datos_product = ProductosScreen(context)
