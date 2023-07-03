@@ -127,8 +127,5 @@ Para generar reporte desde cero con Allure, se deben seguir los siguientes pasos
 ```  
 Se agregan imagenes de ejecución:
 
-![agregar al carrito.jpg](..%2F..%2F..%2FDesktop%2Fagregar%20al%20carrito.jpg)
-![detalle_producto.jpg](..%2F..%2F..%2FDesktop%2Fdetalle_producto.jpg)
-![filtrar_menor a mayor precio.jpg](..%2F..%2F..%2FDesktop%2Ffiltrar_menor%20a%20mayor%20precio.jpg)
-![filtrar_mayor a menor precio.jpg](..%2F..%2F..%2FDesktop%2Ffiltrar_mayor%20a%20menor%20precio.jpg)
-![features_finalizados.jpg](..%2F..%2F..%2FDesktop%2Ffeatures_finalizados.jpg)
+
+!
